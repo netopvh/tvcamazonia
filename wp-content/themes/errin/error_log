@@ -1,0 +1,16 @@
+[18-Jul-2023 08:49:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function errin_get_option() in /home/codeinde/public_html/errin-demo/wp-content/themes/errin/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/codeinde/public_html/errin-demo/wp-content/themes/errin/index.php on line 15
+[18-Jul-2023 08:51:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function errin_get_option() in /home/codeinde/public_html/errin-demo/wp-content/themes/errin/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/codeinde/public_html/errin-demo/wp-content/themes/errin/index.php on line 15
+[19-Jul-2023 08:38:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function errin_get_option() in /home/codeinde/public_html/errin-demo/wp-content/themes/errin/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/codeinde/public_html/errin-demo/wp-content/themes/errin/index.php on line 15
+[19-Jul-2023 08:39:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function errin_get_option() in /home/codeinde/public_html/errin-demo/wp-content/themes/errin/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/codeinde/public_html/errin-demo/wp-content/themes/errin/index.php on line 15

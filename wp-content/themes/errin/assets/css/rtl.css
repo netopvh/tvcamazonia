@@ -1,0 +1,12 @@
+/*-------------------------------------
+ THEME RTL CSS
+---------------------------------------*/
+
+body {
+    direction: rtl;
+    unicode-bidi: embed;
+    overflow-x: hidden;
+}
+
+
+
